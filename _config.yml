@@ -3,6 +3,7 @@ description: 차근차근, 꾸준히 성장하기
 author: boyeong lim
 avatar: /KakaoTalk_20211230_162652074.jpg
 email: limbbo90@gmail.com
+skin: Daylight
 
 plugins:
   - jekyll-seo-tag
